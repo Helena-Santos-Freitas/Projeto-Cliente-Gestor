@@ -40,5 +40,5 @@ O projeto é dividido em duas partes principais:
    pip install pyqt5
 ## 👨‍💻 Colaboradores
 
-- **Back-end:** Helena Santos  
-- **Front-end:** Aryan Assis
+- **Back-end:** [Helena Santos](https://github.com/Helena-Santos-Freitas)  
+- **Front-end:** [Aryan Assis](https://github.com/AryanAssis)
